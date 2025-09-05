@@ -11,7 +11,7 @@ On Mac: ~/Library/Application Support/minecraft/saves/YourWorldName/
 Inside your world folder, open the datapacks folder.
 
 Drop the UNZIP file directly inside the datapacks folder.
-(unzip it — Minecraft reads the ZIP automatically)
+(unzip it — Minecraft reads the file automatically)
 
 Launch Minecraft → load the world.
 
